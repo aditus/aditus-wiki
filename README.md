@@ -12,10 +12,10 @@ This includes anyone that interacts with the Aditus API, smart invitations, toke
 Retailers that is leveraging Aditus to better target users in a cost efficient and targeted manner while having a unique opportunity to target the crypto affluent. They will be creating smart invitations to serve a range of purpose to market and sell their products.
 
 #### Aditus:
-We are positioned as the platform maintainer to keep the Aditus Ecosystem functional. At the current point in time, features of the Aditus platform, requires to a certain extent, a final arbiter to provide users and merchants the indicated service. As the ethereum protocols evolve, we aim to decentralise modules of the system to encourage a “fee / market” economy within the Aditus ecosystem.
+We are positioned as the platform maintainer to keep the Aditus ecosystem functional. At the current point in time, features of the Aditus platform, requires to a certain extent, a final arbiter to provide users and merchants the indicated service. As the ethereum protocols evolve, we aim to decentralise modules of the system to encourage a “fee / market” economy within the Aditus ecosystem.
 
 #### Liquidity providers:
-TBC
+To cater for convertability to merchants and users in terms of payment method, we require a significant amount of liquidity to reduce the spread and price volatility when commercial transactions happen. Therefore we will be partnering with multiple liquidity providers ( centralised / decentralised ) to maintain a stable exchange rate.
 
 ---
 
@@ -83,16 +83,26 @@ This smart invitation template consist of merchant who wants to invite consumers
 This smart invitation template consist of merchant who wants consumers who are interested to participate in their marketing campaigns. This creates the right incentive for the merchant ( to get users who are interested in their products & services ) and the users ( to redeem ADT token rewards for sharing their data ). 
 
 #### Merchant Cashback Invitation
-Coming soon...
+This smart invitation template consist of cashback that merchant may want to rewards users to encourage spending. For the users, it is as simple as receiving ADT tokens back on to their ETH address upon transaction confirmation.
 
 #### Custom Invitation 
 This smart invitation template onsist of a permutation of the other various available templates. By allowing the merchant to pick and choose conditional items within the smart invitation, it allows merchant to create targeted marketing opportunities.
 
+---
+
+## Smart Invitation Matching
+1. Merchants create their personalised Smart Invitation through the Aditus Merchant Console
+2. Smart Invitation Templates will have customisable selections for different needs
+3. Upon confirmation, the invitation will be broadcasted on the Ethereum blockchain
+4. The contract address of the Smart Invitation would then be stored within the Aditus database
+5. During initiation of the Aditus Mobile Application, the contract address of all active Smart Invitations would be retrieved
+6. Smart Invitation parameters will be queried from the ethereum blockchain to be match with user's local copy of perference data
+7. Only filtered Smart Invitation that are relevant will be shown to users
 
 ---
 
 ## Decentralised Identity & Secure Wallet
-To allow sufficient privacy for our catered audience while preserving a seamless user experience (for the non-tech savvy), we employ an identity architecture that abstracts the complexity behind our mobile interface.
+To allow sufficient privacy for our catered audience while preserving a seamless user experience (for the non-tech savvy), we employ an identity architecture that abstracts the complexity behind our mobile interface. 
 
 ---
 
