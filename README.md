@@ -1,4 +1,21 @@
-Aditus Wiki
+# Aditus Wiki
+
+---
+
+## Roles within the Aditus Ecosystem
+There are 4 distinct roles within the ecosystem:
+
+##### Users:
+This includes anyone that interacts with the Aditus API, smart invitations, tokens, mobile applications and resources. They function as the key interacting participants that the merchant will be targeting and where Aditus is providing a service for.
+
+##### Merchants:
+Retailers that is leveraging Aditus to better target users in a cost efficient and targeted manner while having a unique opportunity to target the crypto affluent. They will be creating smart invitations to serve a range of purpose to market and sell their products.
+
+##### Aditus:
+We are positioned as the platform maintainer to keep the Aditus Ecosystem functional. At the current point in time, features of the Aditus platform, requires to a certain extent, a final arbiter to provide users and merchants the indicated service. As the ethereum protocols evolve, we aim to decentralise modules of the system to encourage a “fee / market” economy within the Aditus ecosystem.
+
+##### Liquidity providers:
+TBC
 
 ---
 
