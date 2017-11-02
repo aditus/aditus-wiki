@@ -86,7 +86,7 @@ This smart invitation template consist of merchant who wants consumers who are i
 Coming soon...
 
 #### Custom Invitation 
-cThis smart invitation template onsist of a permutation of the other various available templates. By allowing the merchant to pick and choose conditional items within the smart invitation, it allows merchant to create targeted marketing opportunities.
+This smart invitation template onsist of a permutation of the other various available templates. By allowing the merchant to pick and choose conditional items within the smart invitation, it allows merchant to create targeted marketing opportunities.
 
 
 ---
