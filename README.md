@@ -73,6 +73,11 @@ https://github.com/ethereum/EIPs/blob/bd136e662fca4154787b44cded8d2a29b993be66/E
 
 ---
 
+## Decentralised Identity & Secure Wallet
+To allow sufficient privacy for our catered audience while preserving a seamless user experience (for the non-tech savvy), we employ an identity architecture that abstracts the complexity behind our mobile interface.
+
+---
+
 ## Specifications
 
 #### Message Format
