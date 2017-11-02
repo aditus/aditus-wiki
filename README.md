@@ -73,6 +73,23 @@ https://github.com/ethereum/EIPs/blob/bd136e662fca4154787b44cded8d2a29b993be66/E
 
 ---
 
+## Smart Invitation Templates
+By allowing merchant to have access based on different needs when targeting users, smart invitation templates makes it easy to do on-the-fly marketing with real rewards while still being able to leverage our core proposition of targeted marketing and immutable auditability of transaction behaviour in the ecosystem.
+
+#### Physical On-site Invitation 
+This smart invitation consist of merchant who wants to invite consumers to participate in specific onsite events through the Aditus platform. By setting up geofencing and merchant defined access code, it'll bridge the gap between merchant and users by incentivising user to participate with ADT tokens as rewards.
+
+#### Data Sharing Invitation
+Coming soon...
+
+#### Merchant Cashback Invitation
+Coming soon...
+
+#### Custom Invitation 
+Coming soon...
+
+---
+
 ## Decentralised Identity & Secure Wallet
 To allow sufficient privacy for our catered audience while preserving a seamless user experience (for the non-tech savvy), we employ an identity architecture that abstracts the complexity behind our mobile interface.
 
