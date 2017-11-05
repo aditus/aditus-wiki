@@ -117,3 +117,15 @@ The Aditus smart contract (program?) is able to authenticate the order originato
 
 Address publicKey = ecrecover( hash, signature( hash ) );
 If ( publicKey != originator ) throw;
+
+---
+
+## Aditus Multisignature structure
+Having a good multisignature structure is important for security and ensure the project can and will do everything as planned.
+
+The following multisignature will hold reserves for different use cases:
+1. The Aditus Foundation Multisig
+2. Merchant Incentive Multisig
+3. Strategic Partners & Token holders Incentive Multisig
+
+All address listed uses the standard multisignature contract provided by Parity.
